@@ -1,5 +1,6 @@
 # Library-System
-This project is my second one in C++, it's implemented without using: STL, pointers and OOP. 
+This project is my second one in C++, it's implemented without using: STL, pointers and OOP.
+
 SW design:
 
 ![image](https://github.com/Ali-Elbana/Library-System/assets/97269796/97a8b6cf-7221-4d5a-9f98-d6d16d8be576)
